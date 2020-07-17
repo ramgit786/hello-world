@@ -1,0 +1,73 @@
+1. Tell me something about yourself ? Google and Prepare properly to answer this . 
+   Your work on AWS ,scripts automation and monitoring .
+2. Tell me about your team and what was your role ? What is your day to day activity ?
+   Say you work as a Devops/Cloud Engineer ,Where you write automation scripts for automation 
+   and do monitoring and send notifications automatically .Prepare a scenario where you automated some manual activity .Please be prepared with small scripts too .
+3. Are you good in programming and scripting ?
+   If you are looking for Devops role say scripting and practise LINUX basic scripting .You may be asked to write .
+   Prepare some ansible playbook and docker scripts too as done in the training .
+4. Are you from Dev side or OP side ?
+   say Ops-side .Google for basic operations work in LINUX environment .
+5. How quickly can you learn and given a chance can you architect an application ?
+   say yes .I have been closely following my seniors especially my lead and in my free time always ask him how was that work done etc ..
+6. What automation tools you have worked upon to implement CICD ?
+   Ansible/Terraform/Jenkins/Cloud-Formation 
+7. Have you created a custom Docker image ? Explain how is that done ?
+8. Why do we use git and how is it better than other tools ? How do you commit back a change in Git ? What's the difference between git pull & git fetch ?
+9. What is the differnce between Git-Merge and Git-rebase ? How to resolve merge conflict ?
+10. How do you deploy services on Pods in K8S ?
+11. Tool used to migrate from SVN TO git -SubGit
+12. What kind of jobs you have configued in jenkins ?
+13. What is master slave architecture in jenkins ? how do you connect to them ?
+14. What is declerative and script based pipeline in jenkins ?
+15. How can you secure jenkins ?
+16. How can I clone only a specific branch in GIT ?
+17. When i use mvn install what happens in the background ?
+18. What is Ansible adhoc commands ? Have you used it give example ?
+19. How can i save only last 5 builds on jenkins ?
+20. Do you know about stash memory in GIT and worked on git conflict ?
+21. How can you see all the branches on git ?
+22. What are dependency and plugin in maven ? Give example ?
+23. What is maven build lifecycle ?
+24. In which tag will you mention output artifact type (like jar,war  etc) ?
+25. What is plugins in jenkins ? How would you downgrade the plugin ?
+
+
+
+
+Linux Questions (Its a ocean you can't cover all ,But just try )
+
+1. what is the command to view CRONTAB ?
+2. What is a alias in Linux ?
+3. What can chmod and chowner command do ? What's the differnce between both ?
+4. What is SSH Port forwarding ?
+5. What is a ZOMBIE process ?
+6. How do you check disk capacity and CPU utilization ?
+
+Deployment Related :
+
+1. What is blue-green Deployment ? Do you know what's hot deployment ?
+2. What should be your roll back strategy ? Prepare this without fail and don't hesitate while answering .
+3. Are you aware of Jenkins deployment ? yes talk about CICD & the plugins involved during traning .
+4. 
+
+Configuration Management :
+1. Which Configuration Management tool you have used ? Tell me the why did you choose that ?
+2. What is the biggest issue you have faced in PROD environment ? Please google and prepare it very well always add how your team resolved it and the learning you gathered .
+3. What is your DR strategy in your current project ?
+4. How do you scale production webservices ? Talk about K8S here 
+
+
+AWS Questions :
+1. What is VPC ?
+2. Difference between public and private subnet ? How do you do it on console ?
+3. What is cloud-formation ? Do you any such other tool ?
+4. What is Rout-53 ? Whats the use ?
+5. What features in AWS you like most ?
+6. What is the different types of Load Balancers in AWS ? How are they different from each other ?
+7. Can i mount one EBS volume with multiple instance ? NO 
+8. Waht is versioning in S3 & what are differnt storage types in S3 ? How can we benefit from different storages in AWS ?
+9. What is cross region replication in AWS ? Have you used it ?
+10. What is the difference between NACL and Security Group ?
+11. What does role do in AWS IAM ?
+12. 
